@@ -1,0 +1,26 @@
+body{
+    border:5px solid brown;
+}
+.boxA{
+    width: 50%;
+    margin: 15px auto;
+    background-color: #FFD;
+    border:5px dashed #F4A460;
+    text-align: justify;
+    padding: 1.5em;
+}
+.boxB{
+    width: 25em;
+    border-top: 10px double darkslategray;
+    border-bottom: 10px double darkslategray;
+    background-color: #DFF;
+    padding:2em 20px 2em 20px;
+    margin:2em 2em 20px 20px;
+}
+.boxC{
+    margin:2em 150px 1em 500px;
+    border:1em ridge lightsalmon;
+    padding:30px;
+    max-width: 80%;
+    background-color: burlywood;
+}
